@@ -1,0 +1,15 @@
+body {
+  color: black;
+}
+
+#geography {
+  color: red;
+}
+
+a:hover {
+  color: red;
+}
+
+nav li {
+  color: orange;
+}
