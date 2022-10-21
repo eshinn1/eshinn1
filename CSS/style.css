@@ -1,6 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab:wght@800&display=swap');
+
 body {
-  color: black;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  /* Only use serif or san serif for your design */
+  font-size: 18px;
+  font-weight: 400;
+  color: #222;
 }
+
+h1,
+h2 {
+  font-family: "Roboto Slab", "Helvetica", sans-serif;
+  font-weight: 800;
+}
+
+figcaption {
+  
+}
+
+
 
 #geography {
   color: red;
