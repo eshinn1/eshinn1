@@ -5,20 +5,35 @@ body {
   /* Only use serif or san serif for your design */
   font-size: 18px;
   font-weight: 400;
-  color: #222;
+  background-color: #def2f1;
 }
 
 h1,
+h2,
+h3,
+section,
+p,
+img {
+ margin-bottom: 35px;
+
+}
+
 h2 {
-  font-family: "Roboto Slab", "Helvetica", sans-serif;
-  font-weight: 800;
+  font-size: 32px;
 }
 
-figcaption {
-  
+h3 {
+  font-size: 24px;
 }
 
+a {
+  text-decoration: none;
+}
 
+img {
+  border: 1px solid #ccc;
+  padding: 5px;
+}
 
 #geography {
   color: red;
